@@ -20,7 +20,7 @@
     "typescript": "^2.0.0"
   },
   "renovate": {
-    "extends": [":library"],
+    "extends": [":library"]
   },
   "homepage": "https://v#readme"
 }
